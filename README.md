@@ -17,6 +17,9 @@
 
 ## Contributors
 ---
+Author: Smaran Goli  <br>
+Email: 'u3583070@connect.hku.hk'<br>
+
 Author: Masood Ahmed <br>
 Email: 'masood20@connect.hku.hk'<br>
 
@@ -26,8 +29,6 @@ Email: 'abdur8606@gmail.com'<br>
 Author: Divtej Singh Bhatia <br>
 Email: 'divtej17@connect.hku.hk'<br>
 
-Author: Smaran Goli  <br>
-Email: 'u3583070@connect.hku.hk'<br>
 
 ---
 
